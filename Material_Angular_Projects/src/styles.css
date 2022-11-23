@@ -1,0 +1,31 @@
+/* You can add global styles to this file, and also import other style files */
+.homepage{
+    color: aqua;
+    font-size: 22px;
+    text-align: center;
+    position: center;
+}
+.example-icon {
+    padding: 0 14px;
+  }
+  .example-spacer {
+    flex: 1 1 auto;
+  }
+.mat-drawer-container {
+    background-color: #fafafa;
+    color: rgba(0, 0, 0, 0.87);
+}
+.mat-drawer{
+background-color: rgb(146, 122, 233);
+color: wheat;
+}
+.mat-elevation-z5
+{
+  z-index: 2;
+}
+.mat-sidenav a:hover{
+   color: rgb(230, 141, 23);
+}
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
